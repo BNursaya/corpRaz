@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test 1
 Test 2
 Test 
@@ -10,4 +11,6 @@ fbjnsbjgnbkg
 
 11122222225455
 4444444555
+>>>>>>> testing
+=======
 >>>>>>> testing
